@@ -1,7 +1,9 @@
 <Bundle>
  <entry>
   <resource>
-  	<blah value="whatever"/>
+    <MessageHeader>
+  	  <blah value="whatever"/>
+    </MessageHeader>
   </resource>
  </entry>
  <entry>
