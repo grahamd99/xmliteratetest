@@ -1,0 +1,21 @@
+<Bundle>
+ <entry>
+  <resource>
+  	<blah value="whatever"/>
+  </resource>
+ </entry>
+ <entry>
+  <resource>
+   <Immunization>
+    <name value="imm1"/>
+   </Immunization>
+  </resource>
+ </entry>
+ <entry>
+  <resource>
+   <Immunization>
+    <name value="imm2"/>
+   </Immunization>
+  </resource>
+ </entry>
+</Bundle>
