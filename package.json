@@ -1,0 +1,23 @@
+{
+  "name": "xmliteratetest",
+  "version": "1.0.0",
+  "description": "just a test app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/grahamd99/xmliteratetest.git"
+  },
+  "author": "Graham Dodsworth",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/grahamd99/xmliteratetest/issues"
+  },
+  "homepage": "https://github.com/grahamd99/xmliteratetest#readme",
+  "dependencies": {
+    "util": "^0.12.3",
+    "xml2js": "^0.4.23"
+  }
+}
